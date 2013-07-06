@@ -1,0 +1,3 @@
+[submodule "jquery.visibility.js"]
+	path = jquery.visibility.js
+	url = git@bitbucket.org:rushi/jquery.visibility.js.git
